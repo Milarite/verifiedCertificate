@@ -1,0 +1,139 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 12/01/2017 12:19
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-alarm-clock:before { content: "\f100"; }
+.flaticon-apple:before { content: "\f101"; }
+.flaticon-athlete:before { content: "\f102"; }
+.flaticon-beef:before { content: "\f103"; }
+.flaticon-bicycle:before { content: "\f104"; }
+.flaticon-blender:before { content: "\f105"; }
+.flaticon-broccoli:before { content: "\f106"; }
+.flaticon-calendar:before { content: "\f107"; }
+.flaticon-check-list:before { content: "\f108"; }
+.flaticon-chronometer:before { content: "\f109"; }
+.flaticon-dumbbell:before { content: "\f10a"; }
+.flaticon-dumbbell-1:before { content: "\f10b"; }
+.flaticon-energy-drink:before { content: "\f10c"; }
+.flaticon-fast-food:before { content: "\f10d"; }
+.flaticon-fish:before { content: "\f10e"; }
+.flaticon-forest:before { content: "\f10f"; }
+.flaticon-goal:before { content: "\f110"; }
+.flaticon-hand-grip:before { content: "\f111"; }
+.flaticon-jumping-rope:before { content: "\f112"; }
+.flaticon-kettlebell:before { content: "\f113"; }
+.flaticon-lotus-position:before { content: "\f114"; }
+.flaticon-lotus-position-1:before { content: "\f115"; }
+.flaticon-mat:before { content: "\f116"; }
+.flaticon-measuring-tape:before { content: "\f117"; }
+.flaticon-milk:before { content: "\f118"; }
+.flaticon-milkshake:before { content: "\f119"; }
+.flaticon-muscle:before { content: "\f11a"; }
+.flaticon-music-player:before { content: "\f11b"; }
+.flaticon-no-drinks:before { content: "\f11c"; }
+.flaticon-pilates:before { content: "\f11d"; }
+.flaticon-protein:before { content: "\f11e"; }
+.flaticon-pulse:before { content: "\f11f"; }
+.flaticon-rest:before { content: "\f120"; }
+.flaticon-runner:before { content: "\f121"; }
+.flaticon-salad:before { content: "\f122"; }
+.flaticon-slim-down:before { content: "\f123"; }
+.flaticon-smartphone:before { content: "\f124"; }
+.flaticon-smartwatch:before { content: "\f125"; }
+.flaticon-sport-bag:before { content: "\f126"; }
+.flaticon-sport-shoe:before { content: "\f127"; }
+.flaticon-stationary-bike:before { content: "\f128"; }
+.flaticon-studying:before { content: "\f129"; }
+.flaticon-swimming:before { content: "\f12a"; }
+.flaticon-tea:before { content: "\f12b"; }
+.flaticon-treadmill:before { content: "\f12c"; }
+.flaticon-water:before { content: "\f12d"; }
+.flaticon-watermelon:before { content: "\f12e"; }
+.flaticon-weighing-scale:before { content: "\f12f"; }
+.flaticon-yin-yang:before { content: "\f130"; }
+.flaticon-yoga-ball:before { content: "\f131"; }
+    
+    $font-Flaticon-alarm-clock: "\f100";
+    $font-Flaticon-apple: "\f101";
+    $font-Flaticon-athlete: "\f102";
+    $font-Flaticon-beef: "\f103";
+    $font-Flaticon-bicycle: "\f104";
+    $font-Flaticon-blender: "\f105";
+    $font-Flaticon-broccoli: "\f106";
+    $font-Flaticon-calendar: "\f107";
+    $font-Flaticon-check-list: "\f108";
+    $font-Flaticon-chronometer: "\f109";
+    $font-Flaticon-dumbbell: "\f10a";
+    $font-Flaticon-dumbbell-1: "\f10b";
+    $font-Flaticon-energy-drink: "\f10c";
+    $font-Flaticon-fast-food: "\f10d";
+    $font-Flaticon-fish: "\f10e";
+    $font-Flaticon-forest: "\f10f";
+    $font-Flaticon-goal: "\f110";
+    $font-Flaticon-hand-grip: "\f111";
+    $font-Flaticon-jumping-rope: "\f112";
+    $font-Flaticon-kettlebell: "\f113";
+    $font-Flaticon-lotus-position: "\f114";
+    $font-Flaticon-lotus-position-1: "\f115";
+    $font-Flaticon-mat: "\f116";
+    $font-Flaticon-measuring-tape: "\f117";
+    $font-Flaticon-milk: "\f118";
+    $font-Flaticon-milkshake: "\f119";
+    $font-Flaticon-muscle: "\f11a";
+    $font-Flaticon-music-player: "\f11b";
+    $font-Flaticon-no-drinks: "\f11c";
+    $font-Flaticon-pilates: "\f11d";
+    $font-Flaticon-protein: "\f11e";
+    $font-Flaticon-pulse: "\f11f";
+    $font-Flaticon-rest: "\f120";
+    $font-Flaticon-runner: "\f121";
+    $font-Flaticon-salad: "\f122";
+    $font-Flaticon-slim-down: "\f123";
+    $font-Flaticon-smartphone: "\f124";
+    $font-Flaticon-smartwatch: "\f125";
+    $font-Flaticon-sport-bag: "\f126";
+    $font-Flaticon-sport-shoe: "\f127";
+    $font-Flaticon-stationary-bike: "\f128";
+    $font-Flaticon-studying: "\f129";
+    $font-Flaticon-swimming: "\f12a";
+    $font-Flaticon-tea: "\f12b";
+    $font-Flaticon-treadmill: "\f12c";
+    $font-Flaticon-water: "\f12d";
+    $font-Flaticon-watermelon: "\f12e";
+    $font-Flaticon-weighing-scale: "\f12f";
+    $font-Flaticon-yin-yang: "\f130";
+    $font-Flaticon-yoga-ball: "\f131";
